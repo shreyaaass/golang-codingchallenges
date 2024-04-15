@@ -32,4 +32,4 @@ The program reads the contents of the file specified by the user using `os.ReadF
 ### Output
 
 The program prints the counted statistics for the file in the following format:
-'''[Number of bytes] [Number of lines] [Number of words] [File path]'''
+`[Number of bytes] [Number of lines] [Number of words] [File path]`

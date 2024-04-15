@@ -6,7 +6,7 @@ Part of efforts to learn golang and it's application in real world scenarios
 
 Coding Challenges List:
 
-- Build Your Own wc Tool (In Progress)
+- Build Your Own wc Tool (Done)
 - Build Your Own JSON Parser
 - Build Your Own Compression Tool
 - Build Your Own cut Tool
