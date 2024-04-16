@@ -1,0 +1,8 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "email": "john.doe@example.com",
+  "is_subscribed": true,
+  "tags": ["python", "programming", "json"]
+}
